@@ -1,0 +1,60 @@
+{
+    "bot": {
+        "owner": "756549670443941968",
+        "botdurum": "HR 💖 SS",
+        "prefix": "!",
+        "GuildID": "821385103905259550"
+    },
+    "penals": {
+        "ban": {
+            "staff": "941700031667380234",
+            "log": "941710928532107346",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "941700031667380234",
+            "roles": "941711280652308511",
+            "log": "941710995137654826",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "941700031667380234",
+            "roles": "941712152731979846",
+            "log": "941712514373263390",
+            "limit": 5
+        },
+      "points": {
+        "mutepoints": "10",
+        "banpoints": "20",
+        "jailpoints": "5"
+      }
+    },
+    "logs": {
+        "messagelog": "941712663736614953",
+        "voicelog": "941712721978728486",
+        "taglog": ""
+
+    },
+    "roles": {
+        "boosterrole": "",
+        "viprole": "",
+        "designerrole": "",
+        "musiciansrole": "",
+        "familyrole": ""
+    },
+    "meeting": {
+        "katıldı": "KATILDI ROLÜ ID",
+        "yetkili": "KATILDI YETKİLİ ROL ID",
+        "meetingchannel": "KATILDI SESLİ KANALI ID"
+    },
+    "channels": {
+        "chat": "941700062789115964",
+        "voicechannel": "941700046859141140"
+    },
+    "parents": {
+        "publicparents": "PUBLİC KATEGORİSİ ID"
+    },
+    "registration": {
+        "GuilDTag": "SUNUCU TAGINIZ"
+    }
+}
